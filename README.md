@@ -6,7 +6,7 @@ A simple demo to show the usage of python-i18n using json file. No need to recom
 
 `local` folder has the localized strings; it has both EN and AR values for the string `hi`.
 
-And we load those strings in `polls/views.py`, you can see this view in your local server at `http://127.0.0.1:8000/polls/`
+And we load those strings in `articles/views.py`, you can see this view in your local server at `http://127.0.0.1:8000/articles/`
 
 ```
 from django.http import HttpResponse
